@@ -12,8 +12,6 @@ This is body
 
 This citation from testpost.bib [@Other:2023aa]
 
-This citation from default.bib [@Other:2024aa]
-
 This citation from metadata.bib [@Other:2027aa]
 
 This citation from defaultfrompelicanconf.py [@Other:2030aa]
